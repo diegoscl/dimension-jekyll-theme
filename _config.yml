@@ -12,7 +12,7 @@ zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
 
-icon: fa-diamond # Font Awesome class for your site's icon
+icon: fa-thumbs-o-up # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
