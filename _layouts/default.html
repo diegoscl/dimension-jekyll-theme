@@ -18,7 +18,7 @@
 <!-- {{ page.title }} -->
 <article id="{{ page.title }}">
 	<h2 class="major">{{ page.title }}</h2>
-	{% if page.image %}<span class="image main"><img src="https://cdn.staticaly.com/gh/diegoscl/diegoscl.github.io/master/assets/images/{{ page.image }}" alt="{{ page.title }}" /></span>{% endif %}
+	{% if page.image %}<span class="image main"><img src="{{ page.image }}" alt="{{ page.title }}" /></span>{% endif %}
 <p>
 {{ page.content }}
 </p>
