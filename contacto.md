@@ -7,7 +7,7 @@ title: contacto
 <form name="contacto" method="POST" data-netlify="true" netlify-honeypot="dulcemiel" data-netlify-recaptcha="true">
 	<div class="fields">
 		<div class="field half first">
-			<label for="name">Nombre</label>
+			<label for="name">Nombre y apellido</label>
 			<input type="text" name="name" id="name" />
 		</div>
 		<div class="field half">
@@ -26,7 +26,7 @@ title: contacto
 		</div>
 	</div>
 	<ul class="actions">
-		<li><input type="submit" value="Enviar" class="primary" /></li>
+		<li><input type="submit" value="Enviar mensaje" class="primary" /></li>
 		<li><input type="reset" value="Borrar" /></li>
 	</ul>
 </form>
