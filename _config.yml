@@ -1,7 +1,7 @@
 # Site settings
 title: diego belmar
 email: youremailaddress@gmail.com
-description: Una mezcla de biotecnólogo, emprendedor y amante de las cosas geeks. Traído a ustedes directamente desde SCL.
+description: Una excelente mezcla de biotecnólogo, (bio)emprendedor y amante de las cosas geeks. Traído a ustedes directamente desde SCL.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Diego Belmar
@@ -16,14 +16,14 @@ icon: fa-thumbs-o-up # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/diegoscl
+gitlab_url: 
+googleplus_url: 
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/diegobelmar/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/diegoscl
 
 # Build settings
 markdown: kramdown
