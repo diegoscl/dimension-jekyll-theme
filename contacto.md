@@ -34,7 +34,7 @@ title: contacto
 	<li><a href="{{ site.twitter_url }}" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 {% endif %}
 {% if site.telegram_url %}
-	<li><a href="{{ site.telegram }}" class="icon fa-telegram" target="_blank"><span class="label">Telegram</span></a></li>
+	<li><a href="{{ site.telegram_url }}" class="icon fa-telegram" target="_blank"><span class="label">Telegram</span></a></li>
 {% endif %}
 {% if site.facebook_url %}
 	<li><a href="{{ site.facebook_url }}" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
