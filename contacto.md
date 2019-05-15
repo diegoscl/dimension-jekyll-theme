@@ -2,10 +2,10 @@
 title: contacto
 ---
 
-<form action="https://formspree.io/{{ site.email }}" method="POST">
+<form name="contacto" method="POST" data-netlify="true" netlify-honeypot="dulcemiel">
 	<div class="fields">
 		<div class="field half first">
-			<label for="name">Name</label>
+			<label for="name">Nombre</label>
 			<input type="text" name="name" id="name" />
 		</div>
 		<div class="field half">
@@ -13,13 +13,14 @@ title: contacto
 			<input type="text" name="_replyto" id="email" />
 		</div>
 		<div class="field">
-			<label for="message">Message</label>
+			<label for="message">Mensaje</label>
 			<textarea name="message" id="message" rows="4"></textarea>
+			<label style="visibility:hidden">Deja en blanco si eres humano: <input name="dulcemiel" /></label>
 		</div>
 	</div>
 	<ul class="actions">
-		<li><input type="submit" value="Send Message" class="primary" /></li>
-		<li><input type="reset" value="Reset" /></li>
+		<li><input type="submit" value="Enviar" class="primary" /></li>
+		<li><input type="reset" value="Borrar" /></li>
 	</ul>
 </form>
 <ul class="icons">
