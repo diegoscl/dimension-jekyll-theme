@@ -1,0 +1,13 @@
+# netlify.toml
+# Comandos para el deploy del sitio en la infraestructura de Netlify.
+[build]
+  command = "jekyll build"
+  publish = "_site"
+  environment = { JEKYLL_ENV="production" }
+# Redirección proxy de contenido estatico alojado en B2 y cacheado por Cloudflare.
+[[redirects]]
+  from = "/static/*"
+  to = "https://f000.backblazeb2.com/file/diegoscl/:splat"
+  status = 200
+  force = true
+  headers = {Cache-Control = "Public, max-age=31536000", X-From = "Netlify CDN"}
