@@ -1,21 +1,21 @@
 # Site settings
 title: diego belmar
-email: youremailaddress@gmail.com
-description: Una excelente mezcla de biotecnólogo, (bio)emprendedor y amante de las cosas geeks. Traído a ustedes directamente desde SCL.
+email: 
+description: Una excelente mezcla de biotecnólogo, (bio)emprendedor tecnológico y amante de las cosas geeks. Traído a ustedes directamente desde SCL.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Diego Belmar
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
+phone:
 
 icon: fa-thumbs-o-up # Font Awesome class for your site's icon
 
 # Social settings
-facebook_url:
+facebook_url: https://www.facebook.com/diego.belmar
 github_url: https://github.com/diegoscl
 gitlab_url: 
 googleplus_url: 
