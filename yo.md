@@ -2,7 +2,7 @@
 title: yo
 image: https://res.cloudinary.com/diegoscl/image/upload/c_limit,f_auto,q_auto/blog/diego.jpg
 ---
-¡Hola amig@! 
+¡Hola amig@s! 
 
 Para presentarme te puedo contar que soy un Ingeniero en Biotecnología que un día decidió ser emprendedor y meterse en el mundo de la innovación. En 2010 fui uno de los fundadores de [Phage Technologies](https://pht.cl), una empresa que se dedica a desarrollar tecnologías para el control de bacterias utilizando bacteriófagos. Hoy la compañía tiene un contrato de distribución con _Bayer Animal Health GmbH_, por lo que el producto Fagolac (a.k.a Milkeeper) se comercializa en Latinoamérica y pronto llegará a Europa.
 
