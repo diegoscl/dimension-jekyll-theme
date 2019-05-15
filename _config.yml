@@ -1,7 +1,7 @@
 # Site settings
 title: diego belmar
 email: 
-description: Una excelente mezcla de biotecnólogo, (bio)emprendedor tecnológico y amante de las cosas geeks. Traído a ustedes directamente desde SCL.
+description: Una mezcla de biotecnólogo, (bio)emprendedor tecnológico y amante de las cosas geeks. Traído a ustedes desde 1986 directamente desde SCL.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Diego Belmar
