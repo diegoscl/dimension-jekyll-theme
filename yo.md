@@ -1,5 +1,5 @@
 ---
-title: sobre mi
+title: yo
 image: https://res.cloudinary.com/diegoscl/image/upload/c_limit,f_auto,q_auto/blog/diego.jpg
 ---
 ¡Hola amig@! 
