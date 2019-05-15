@@ -2,7 +2,7 @@
 title: blog
 ---
 
-![https://res.cloudinary.com/diegoscl/image/upload/c_limit,f_auto,q_auto,w_1080/blog/bioemp_screenshot.png](https://bioemprendedor.cl)
+![Visita Bioemprendedor.cl](https://res.cloudinary.com/diegoscl/image/upload/c_limit,f_auto,q_auto,w_1080/blog/bioemp_screenshot.png)
 
 Por el momento todas mis publicaciones las estoy haciendo en el blog **Bioemprendedor.cl**, así que te invito a visitarlo para que puedas leer las cosas que estoy compartiendo.
 
