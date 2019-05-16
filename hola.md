@@ -14,7 +14,10 @@ Si quieres, puedes revisar más de mi perfil profesional en <a href="https://www
 
 Desde el punto yo de vista personal, estoy casado con [pieri.bk](https://www.facebook.com/pieri.bk) y soy el orgulloso (_y chocho_) padre de Pedro. Soy fanático de un buen puñado de series, me encanta la cocina y tengo una extraña fascinación por los aeropuertos. En mi tiempo libre me encanta disfrutar a mi hijo, así como la lectura y tratar de escribir cosas que le sirvan a la gente.
 
-Siempre estaré disponible para compartir un café <i class="fa fa-coffee" aria-hidden="true"></i>
-, por lo que si te animas no dudes en contactarme para que conversemos.
+Siempre estaré disponible para compartir un café <i class="fa fa-coffee" aria-hidden="true"></i>, por lo que si te animas no dudes en contactarme para que conversemos.
+
+<span class="image main">
+  <img src="https://res.cloudinary.com/diegoscl/image/upload/c_limit,f_auto,q_auto/blog/diego2.pngg" alt="hola">
+</span>
 
 Saludos y muchas gracias por tu visita a este pequeñísimo rincón de internet.
