@@ -17,7 +17,7 @@ Desde el punto yo de vista personal, estoy casado con [pieri.bk](https://www.fac
 Siempre estaré disponible para compartir un café <i class="fa fa-coffee" aria-hidden="true"></i>, por lo que si te animas no dudes en contactarme para que conversemos.
 
 <span class="image main">
-  <img src="https://res.cloudinary.com/diegoscl/image/upload/c_limit,f_auto,q_auto/blog/diego2.pngg" alt="hola">
+  <img src="https://res.cloudinary.com/diegoscl/image/upload/c_limit,f_auto,q_auto/blog/diego2.png" alt="Diego Belmar">
 </span>
 
 Saludos y muchas gracias por tu visita a este pequeñísimo rincón de internet.
