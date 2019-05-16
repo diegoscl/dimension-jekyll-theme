@@ -12,3 +12,30 @@
   status = 200
   force = true
   headers = {Cache-Control = "Public, max-age=31536000", X-From = "Netlify CDN"}
+
+# Redirect domain aliases to primary domain
+[[redirects]]
+  from = "https://belmar.cc/*"
+  to = "https://diego.belmar.cc/:splat"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://belmar.ws/*"
+  to = "https://diego.belmar.cc/:splat"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://belmar.me/*"
+  to = "https://diego.belmar.cc/:splat"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://diego.belmar.ws/*"
+  to = "https://diego.belmar.cc/:splat"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://diego.belmar.me/*"
+  to = "https://diego.belmar.cc/:splat"
+  status = 301
+  force = true
