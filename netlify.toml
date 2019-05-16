@@ -39,3 +39,8 @@
   to = "https://diego.belmar.cc/:splat"
   status = 301
   force = true
+[[redirects]]
+  from = "https://diego-web.netlify.com/*"
+  to = "https://diego.belmar.cc/:splat"
+  status = 301
+  force = true
