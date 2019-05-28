@@ -7,7 +7,7 @@ title: contacto
 <form name="contacto" method="POST" data-netlify="true" netlify-honeypot="dulcemiel" data-netlify-recaptcha="true">
 	<div class="fields">
 		<div class="field half first">
-			<label for="name">Nombre y apellido *</label>
+			<label for="name">Nombre y apellido (*)</label>
 			<input type="text" name="name" id="name" required/>
 		</div>
 		<div class="field half">
@@ -15,15 +15,15 @@ title: contacto
 			<input type="text" name="org" id="org" />
 		</div>
 		<div class="field half first">
+			<label for="email">Email (*)</label>
+			<input type="text" name="_replyto" id="email" required/>
+		</div>
+		<div class="field half">
 			<label for="fono">Teléfono</label>
 			<input type="text" name="fono" id="fono" />
 		</div>
-		<div class="field half">
-			<label for="email">Email *</label>
-			<input type="text" name="_replyto" id="email" required/>
-		</div>
 		<div class="field">
-			<label for="message">Mensaje</label>
+			<label for="message">Mensaje (*)</label>
 			<textarea name="message" id="message" rows="4" required></textarea>
 		</div>
 		<div class="field half first">
