@@ -1,0 +1,51 @@
+---
+title: consultoría
+---
+
+Hoy te puedo proveer servicios de consultoría personalizada, donde lograremos sacar adelante tu proyecto y que tus objetivos se cumplan en el menor tiempo posible.
+
+Puedes encontrar mis referencias profesionales en <a href="https://www.linkedin.com/in/diegobelmar/" target="_blank">LinkedIn</a> <i class="fa fa-linkedin-square" aria-hidden="true"></i> o te puedo enviar mi CV actualizado si te pones en contacto directamente.
+
+## Áreas de experiencia
+
+- Planificación estratégica para proyectos o emprendimientos científico-tecnológicos, con especial énfasis en proyectos *biotech*, *agrotech* o *foodtech*.
+- Planificación estratégica para levantamiento de fondos públicos y/o privados.
+- Preparación focalizada de pitch, deck, one-pager y otras herramientas para la comunicación efectiva de proyectos o emprendimientos. 
+- Desarrollo de modelos de negocio y de escalamiento para la puesta a punto de la salida al mercado de nuevos productos o servicios tecnológicos. 
+- Gestión de equipos de alto desempeño mediante metodologías de seguimiento y análisis.
+- Gestión del conocimiento generado en actividades de I+D+i mediante el uso efectivo de herramientas TI.
+- Charlas de emprendimiento e innovación para todo tipo de público.
+
+Si deseas conversar sobre mis servicios de consultoría ponte en contacto vía email completando el formulario de más abajo. Aunque, prefiero que me escribas vía <a href="{{ site.telegram_url }}" target="_blank">Telegram</a> <i class="fa fa-telegram" aria-hidden="true"></i> o mediante un mensaje directo en <a href="https://twitter.com/messages/compose?recipient_id=6705812" target="_blank">Twitter</a> <i class="fa fa-twitter-square" aria-hidden="true"></i>. ¡La elección es tuya!
+
+<form name="consultoria" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+	<div class="fields">
+		<div class="field half first">
+			<label for="name">Nombre y apellido</label>
+			<input type="text" name="name" id="name" />
+		</div>
+    <div class="field half">
+			<label for="empresa">Empresa u organización</label>
+			<input type="text" name="empresa" id="empresa" />
+		</div>
+		<div class="field half">
+			<label for="email">Email</label>
+			<input type="text" name="_replyto" id="email" />
+		</div>
+    <div class="field half">
+			<label for="telefono">Teléfono</label>
+			<input type="tel" name="telefono" id="telefono" />
+		</div>
+		<div class="field">
+			<label for="message">Mensaje</label>
+			<textarea name="message" id="message" rows="4"></textarea>
+		</div>
+		<div class="field">
+			<div data-netlify-recaptcha="true"></div>
+		</div>
+	</div>
+	<ul class="actions">
+		<li><input type="submit" value="Enviar mensaje" class="primary" /></li>
+		<li><input type="reset" value="Borrar" /></li>
+	</ul>
+</form>
