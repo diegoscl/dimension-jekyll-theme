@@ -1,5 +1,5 @@
 ---
-title: consultoría
+title: consultoria
 ---
 
 Hoy te puedo proveer servicios de consultoría personalizada, donde lograremos sacar adelante tu proyecto y que tus objetivos se cumplan en el menor tiempo posible.
@@ -28,7 +28,7 @@ Si deseas conversar sobre mis servicios de consultoría ponte en contacto vía e
 			<label for="empresa">Empresa u organización</label>
 			<input type="text" name="empresa" id="empresa" />
 		</div>
-		<div class="field half">
+		<div class="field half first">
 			<label for="email">Email</label>
 			<input type="text" name="_replyto" id="email" />
 		</div>
