@@ -34,7 +34,7 @@ Si deseas conversar sobre mis servicios de consultoría ponte en contacto vía e
 		</div>
     <div class="field half">
 			<label for="telefono">Teléfono</label>
-			<input type="tel" name="telefono" id="telefono" />
+			<input type="text" name="telefono" id="telefono" />
 		</div>
 		<div class="field">
 			<label for="message">Mensaje</label>
