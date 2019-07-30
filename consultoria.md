@@ -19,7 +19,7 @@ Puedes encontrar mis referencias profesionales en <a href="https://www.linkedin.
 ## Partners con los que he trabajado
 
 <span class="image main">
-  <img src="https://res.cloudinary.com/diegoscl/image/upload/c_limit,f_auto,q_auto/blog/Partners.png" alt="Partners con los que he trabajado">
+  <img src="https://res.cloudinary.com/diegoscl/image/upload/f_auto,q_auto/blog/Partners.png" alt="Partners con los que he trabajado">
 </span>
 
 ## ¿Quieres que conversemos?
