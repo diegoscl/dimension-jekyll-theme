@@ -1,6 +1,6 @@
 ---
 title: blog
-image: https://res.cloudinary.com/diegoscl/image/upload/c_limit,f_auto,q_auto,w_1080/blog/bioemp_screenshot.png
+image: https://res.cloudinary.com/diegoscl/image/upload/c_limit,f_auto,q_auto,w_1080/blog/bioemp_screenshot2020.png
 ---
 
 Por el momento toda mi actividad como blogger las estoy haciendo en **Bioemprendedor.cl**, por lo que te invito a visitarlo para que puedas leer las cosas que estoy compartiendo.
