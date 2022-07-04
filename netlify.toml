@@ -25,22 +25,17 @@
   status = 301
   force = true
 [[redirects]]
-  from = "https://belmar.me/*"
-  to = "https://diego.belmar.cc/:splat"
-  status = 301
-  force = true
-[[redirects]]
   from = "https://diego.belmar.ws/*"
-  to = "https://diego.belmar.cc/:splat"
-  status = 301
-  force = true
-[[redirects]]
-  from = "https://diego.belmar.me/*"
   to = "https://diego.belmar.cc/:splat"
   status = 301
   force = true
 [[redirects]]
   from = "https://diego-web.netlify.com/*"
   to = "https://diego.belmar.cc/:splat"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/telegram"
+  to = "https://t.me/diegoscl"
   status = 301
   force = true
